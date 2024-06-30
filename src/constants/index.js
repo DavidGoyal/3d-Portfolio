@@ -74,6 +74,10 @@ import {
       icon: nodejs,
     },
     {
+      name: "MongoDB",
+      icon: mongodb,
+    },
+    {
       name: "HTML",
       icon: html,
     },
@@ -92,10 +96,6 @@ import {
     {
       name: "Material UI",
       icon: mui,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
     },
     {
       name: "Firebase",
