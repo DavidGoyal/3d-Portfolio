@@ -13,7 +13,7 @@ import { fadeIn, textVariant } from "../utils/motion"
 const ProjectCard = ({ index, name, description, tags, image, source_code_link,deployed_link,deployed=false}) => {
   return (
     <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
-      <Tilt options={{ max: 45, scale: 1, speed: 450 }} className="w-full rounded-2xl bg-tertiary p-5 sm:w-[360px] h-[530px]">
+      <Tilt options={{ max: 45, scale: 1, speed: 450 }} className="w-full rounded-2xl bg-tertiary p-5 sm:w-[360px] h-[530px] relative">
           <div className="relative w-full h-[230px]">
             <img src={image} alt={name} className="w-full h-full object-contain rounded-2xl" />
           </div>
