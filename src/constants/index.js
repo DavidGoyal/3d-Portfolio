@@ -54,14 +54,6 @@ import {
   
   const technologies = [
     {
-      name: "HTML",
-      icon: html,
-    },
-    {
-      name: "CSS",
-      icon: css,
-    },
-    {
       name: "JavaScript",
       icon: javascript,
     },
@@ -78,6 +70,18 @@ import {
       icon: redux,
     },
     {
+      name: "Node JS",
+      icon: nodejs,
+    },
+    {
+      name: "HTML",
+      icon: html,
+    },
+    {
+      name: "CSS",
+      icon: css,
+    },
+    {
       name: "Tailwind CSS",
       icon: tailwind,
     },
@@ -88,10 +92,6 @@ import {
     {
       name: "Material UI",
       icon: mui,
-    },
-    {
-      name: "Node JS",
-      icon: nodejs,
     },
     {
       name: "MongoDB",
