@@ -5,7 +5,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-import browser from "./browser.png"
+import browser from "./browser.png";
 
 import css from "./tech/css.png";
 import git from "./tech/git.png";
@@ -17,43 +17,45 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import express from "./tech/express.webp"
-import scss from "./tech/scss.webp"
-import mui from "./tech/mui.png"
-import redis from "./tech/redis.webp"
-import firebase from "./tech/firebase.webp"
+import express from "./tech/express.webp";
+import scss from "./tech/scss.webp";
+import mui from "./tech/mui.png";
+import redis from "./tech/redis.webp";
+import firebase from "./tech/firebase.webp";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import netflix from "./netflix.png"
+import netflix from "./netflix.png";
+import Hard from "./75Hard.png";
 
 export {
-  logo,
-  backend,
-  mobile,
-  web,
-  github,
-  menu,
-  close,
-  css,
-  browser,
-  git,
-  html,
-  javascript,
-  mongodb,
-  nodejs,
-  reactjs,
-  redux,
-  tailwind,
-  typescript,
-  netflix,
-  carrent,
-  jobit,
-  express,
-  scss,
-  mui,
-  redis,
-  firebase,
-  tripguide,
+	logo,
+	backend,
+	mobile,
+	web,
+	github,
+	menu,
+	close,
+	css,
+	browser,
+	git,
+	html,
+	javascript,
+	mongodb,
+	nodejs,
+	reactjs,
+	redux,
+	tailwind,
+	typescript,
+	netflix,
+	carrent,
+	jobit,
+	express,
+	scss,
+	mui,
+	redis,
+	firebase,
+	tripguide,
+	Hard,
 };
